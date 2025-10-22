@@ -29,6 +29,7 @@ async function init() {
     const config: MermaidConfig = {
         startOnLoad: false,
         maxTextSize: extConfig.maxTextSize,
+        securityLevel: 'loose', // Enable click functionality for interactive diagrams
         theme: (document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
             ? extConfig.darkModeTheme
             : extConfig.lightModeTheme) as MermaidConfig['theme'],
