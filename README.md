@@ -1,3 +1,6 @@
+> [!WARNING]
+> This extension is deprecated as it has been [merged into VS Code 1.121](https://code.visualstudio.com/updates/v1_121#_mermaid-diagrams-in-markdown-preview-and-notebooks).
+
 # Markdown Preview Mermaid Support
 
 [![](https://vsmarketplacebadges.dev/version/bierner.markdown-mermaid.png)](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)

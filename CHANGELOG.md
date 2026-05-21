@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.32.1 - May 20, 2026
+- Marking as deprecated as the extension has been merged into VS Code as a built-in extension.
+
 ## 1.32.0 - Feb 10, 2026
 - Add tidy-tree layouts for mindmap. Thanks @fissssssh!
 - Fix race for registered diagram types. Thanks @bkbaheti!
